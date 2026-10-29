@@ -1,7 +1,7 @@
 {
-  "version": "0.53.0",
+  "version": "0.53.1",
   "name": "Workbench (beta)",
-  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.53.0",
-  "notes": "Atlas Systems Architect 0.53.0 — Workbench (beta). See the release notes for what changed.",
-  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.53.0/Atlas-0.53.0.dmg"
+  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.53.1",
+  "notes": "Atlas Systems Architect 0.53.1 — Workbench (beta). See the release notes for what changed.",
+  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.53.1/Atlas-0.53.1.dmg"
 }
