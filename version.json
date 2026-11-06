@@ -1,7 +1,7 @@
 {
-  "version": "0.98.2",
+  "version": "0.98.3",
   "name": "Workbench (beta)",
-  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.98.2",
-  "notes": "Atlas 0.98.2 — projects and backups stay local (~/Atlas, ~/Atlas Backups); iCloud-synced folders are detected and refused.",
-  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.98.2/Atlas-0.98.2.dmg"
+  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.98.3",
+  "notes": "Atlas 0.98.3 — security hardening (signed in by default, you choose every file location), governing document spaces with a change-over-time chart, and 31 standards frameworks with auto-classify.",
+  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.98.3/Atlas-0.98.3.dmg"
 }
