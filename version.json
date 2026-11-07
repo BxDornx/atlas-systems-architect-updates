@@ -1,7 +1,7 @@
 {
-  "version": "0.98.3",
+  "version": "0.99.0",
   "name": "Workbench (beta)",
-  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.98.3",
-  "notes": "Atlas 0.98.3 — security hardening (signed in by default, you choose every file location), governing document spaces with a change-over-time chart, and 31 standards frameworks with auto-classify.",
-  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.98.3/Atlas-0.98.3.dmg"
+  "url": "https://github.com/BxDornx/atlas-systems-architect/releases/tag/v0.99.0",
+  "notes": "Coverage Matrix: north/southbound coverage workspace on Requirements, live valid-only pickers with Add new, Add Use Case, coverage popup, and Create diagram from a trace.",
+  "dmg": "https://github.com/BxDornx/atlas-systems-architect/releases/download/v0.99.0/Atlas-0.99.0.dmg"
 }
